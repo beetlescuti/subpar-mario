@@ -1,0 +1,39 @@
+{
+  "running": [{
+      "name": "running-01",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "name": "running-02",
+      "position": {
+        "x": 0,
+        "y": 32,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "name": "running-03",
+      "position": {
+        "x": 0,
+        "y": 64,
+        "w": 32,
+        "h": 32
+      }
+    }
+  ],
+  "jumping": [{
+    "name": "jumping-01",
+    "position": {
+      "x": 0,
+      "y": 96,
+      "w": 32,
+      "h": 32
+    }
+  }]
+}
